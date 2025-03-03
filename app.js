@@ -1,3 +1,5 @@
+// Below are the answers to excersies 1-15 for Cartez Dewberry
+
 /*
 Exercise 1: Define an empty array
 
